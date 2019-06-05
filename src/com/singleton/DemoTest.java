@@ -10,6 +10,12 @@ public class DemoTest {
 		
 		Demo d1 = Demo.getObject();
 		System.out.println(d1);
+
+		System.out.print(1);
+		
+		/*
+		 * Object obj = new Object() o
+		 */
 		
 		
 		
