@@ -18,4 +18,13 @@ public class Employee {
 		return id;
 	}
 	
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + ", salary=" + salary + "]";
+	}
+	
+	
+	
+	
+	
 }
